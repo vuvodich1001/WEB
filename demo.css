@@ -1,0 +1,9 @@
+h1, h2{
+    color: green;
+    font-family: 'Lato', sans-serif;
+    font-weight: 1000;
+    font-size: 50px;
+}
+textarea{
+    display: block;
+}
